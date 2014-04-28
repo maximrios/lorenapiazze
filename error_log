@@ -1,0 +1,107 @@
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  include(): Failed opening 'admin/includes/config.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/indexwe2/public_html/lorenapiazze/index.php on line 3
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysqli_query(): Access denied for user 'dtrevino'@'localhost' (using password: NO) in /home1/indexwe2/public_html/lorenapiazze/index.php on line 255
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysqli_query(): A link to the server could not be established in /home1/indexwe2/public_html/lorenapiazze/index.php on line 255
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazze/index.php on line 256
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysqli_query(): Access denied for user 'dtrevino'@'localhost' (using password: NO) in /home1/indexwe2/public_html/lorenapiazze/index.php on line 317
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysqli_query(): A link to the server could not be established in /home1/indexwe2/public_html/lorenapiazze/index.php on line 317
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazze/index.php on line 318
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysqli_query(): Access denied for user 'dtrevino'@'localhost' (using password: NO) in /home1/indexwe2/public_html/lorenapiazze/index.php on line 405
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysqli_query(): A link to the server could not be established in /home1/indexwe2/public_html/lorenapiazze/index.php on line 405
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazze/index.php on line 406
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysqli_query(): Access denied for user 'dtrevino'@'localhost' (using password: NO) in /home1/indexwe2/public_html/lorenapiazze/index.php on line 613
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysqli_query(): A link to the server could not be established in /home1/indexwe2/public_html/lorenapiazze/index.php on line 613
+[23-Apr-2014 17:43:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazze/index.php on line 614
+[23-Apr-2014 18:03:23 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'anstra_alexper'@'localhost' (using password: YES) in /home1/indexwe2/public_html/lorenapiazze/admin/includes/config.php on line 16
+[23-Apr-2014 18:04:01 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'anstra_alexper'@'localhost' (using password: YES) in /home1/indexwe2/public_html/lorenapiazze/admin/includes/config.php on line 16
+[23-Apr-2014 18:05:53 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'anstra_alexper'@'localhost' (using password: YES) in /home1/indexwe2/public_html/lorenapiazze/admin/includes/config.php on line 16
+[23-Apr-2014 18:06:50 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazze/index.php on line 256
+[24-Apr-2014 16:05:39 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 244
+[24-Apr-2014 16:05:39 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 245
+[24-Apr-2014 16:05:48 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 244
+[24-Apr-2014 16:05:48 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 245
+[24-Apr-2014 16:08:08 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 244
+[24-Apr-2014 16:08:08 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 245
+[24-Apr-2014 16:08:18 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 244
+[24-Apr-2014 16:08:18 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 245
+[24-Apr-2014 16:08:27 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 244
+[24-Apr-2014 16:08:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 245
+[24-Apr-2014 16:10:28 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 244
+[24-Apr-2014 16:10:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 245
+[24-Apr-2014 18:44:44 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 244
+[24-Apr-2014 18:44:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 245
+[24-Apr-2014 19:12:10 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 244
+[24-Apr-2014 19:12:10 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 245
+[24-Apr-2014 19:13:36 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 246
+[24-Apr-2014 19:13:36 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 247
+[24-Apr-2014 19:14:50 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 249
+[24-Apr-2014 19:14:50 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[24-Apr-2014 19:15:06 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 249
+[24-Apr-2014 19:15:06 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[24-Apr-2014 19:15:31 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[24-Apr-2014 19:15:31 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[24-Apr-2014 19:16:21 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home1/indexwe2/public_html/lorenapiazzecom/noticias.php on line 195
+[24-Apr-2014 19:16:24 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home1/indexwe2/public_html/lorenapiazzecom/noticias.php on line 195
+[25-Apr-2014 07:09:17 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[25-Apr-2014 07:09:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[25-Apr-2014 07:10:44 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[25-Apr-2014 07:10:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[25-Apr-2014 08:03:30 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[25-Apr-2014 08:03:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[25-Apr-2014 08:04:56 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[25-Apr-2014 08:04:56 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[25-Apr-2014 09:57:21 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[25-Apr-2014 09:57:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[25-Apr-2014 09:58:18 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[25-Apr-2014 09:58:18 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[25-Apr-2014 10:03:03 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[25-Apr-2014 10:03:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[27-Apr-2014 15:59:50 America/Denver] PHP Notice:  Undefined index: imagen in /home1/indexwe2/public_html/lorenapiazzecom/index.php on line 412
+[27-Apr-2014 16:03:54 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/index.php on line 406
+[27-Apr-2014 16:04:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/index.php on line 406
+[27-Apr-2014 16:04:54 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/index.php on line 406
+[27-Apr-2014 16:05:22 America/Denver] PHP Notice:  Undefined index: imagen in /home1/indexwe2/public_html/lorenapiazzecom/index.php on line 412
+[27-Apr-2014 16:14:01 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[27-Apr-2014 16:14:01 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 05:45:17 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 05:45:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 07:22:39 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 07:22:39 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 07:57:11 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 07:57:11 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 07:58:03 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 07:58:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 07:58:13 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 07:58:13 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:13:38 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:13:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:13:49 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:13:49 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:14:01 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:14:01 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:14:16 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:14:16 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:15:39 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:15:39 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:21:03 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 252
+[28-Apr-2014 08:21:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 253
+[28-Apr-2014 08:21:11 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 252
+[28-Apr-2014 08:21:11 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 253
+[28-Apr-2014 08:23:14 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 263
+[28-Apr-2014 08:23:14 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 264
+[28-Apr-2014 08:24:09 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 261
+[28-Apr-2014 08:24:09 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 262
+[28-Apr-2014 08:24:20 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 261
+[28-Apr-2014 08:24:20 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 262
+[28-Apr-2014 08:25:04 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 261
+[28-Apr-2014 08:25:04 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 262
+[28-Apr-2014 08:25:38 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:25:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:25:48 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:25:48 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:42:52 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:42:52 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:48:58 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:48:58 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:49:44 America/Denver] PHP Notice:  Undefined index: categoria in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 250
+[28-Apr-2014 08:49:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/ver_noticia.php on line 251
+[28-Apr-2014 08:54:14 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home1/indexwe2/public_html/lorenapiazzecom/index.php on line 256
